@@ -78,6 +78,12 @@
 		Ping,
 		Sign,
 		Dagger,
-		Axe
+		Axe,
+		StructureWood,
+		StructureStone,
+		Leaf,
+		Fish,
+		Shield,
+		Cog
 	}
 }

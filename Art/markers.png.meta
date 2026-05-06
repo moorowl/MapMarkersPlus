@@ -528,7 +528,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: markers_20
+      name: markers_StructureWood
       rect:
         serializedVersion: 2
         x: 200
@@ -1606,7 +1606,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: markers_70
+      name: markers_StructureWood_small
       rect:
         serializedVersion: 2
         x: 200
@@ -2662,7 +2662,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 9802492084
+      name: markers_StructureStone
       rect:
         serializedVersion: 2
         x: 320
@@ -2684,7 +2684,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: markers_133
+      name: markers_Leaf
       rect:
         serializedVersion: 2
         x: 330
@@ -2706,7 +2706,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: markers_134
+      name: markers_Fish
       rect:
         serializedVersion: 2
         x: 340
@@ -2728,7 +2728,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: markers_135
+      name: markers_Shield
       rect:
         serializedVersion: 2
         x: 350
@@ -2750,7 +2750,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: markers_136
+      name: markers_Cog
       rect:
         serializedVersion: 2
         x: 360
@@ -3454,7 +3454,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: markers_182
+      name: markers_StructureStone_small
       rect:
         serializedVersion: 2
         x: 320
@@ -3476,7 +3476,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: markers_183
+      name: markers_Leaf_small
       rect:
         serializedVersion: 2
         x: 330
@@ -3498,7 +3498,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: markers_184
+      name: markers_Fish_small
       rect:
         serializedVersion: 2
         x: 340
@@ -3520,7 +3520,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: markers_185
+      name: markers_Shield_small
       rect:
         serializedVersion: 2
         x: 350
@@ -3542,7 +3542,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: markers_186
+      name: markers_Cog_small
       rect:
         serializedVersion: 2
         x: 360
@@ -4524,11 +4524,6 @@ TextureImporter:
       entries: []
     nameFileIdTable:
       8924: 901842501
-      9802492084: -1808782953
-      markers_133: 140349268
-      markers_134: 1772754390
-      markers_135: -1438204807
-      markers_136: 573984933
       markers_137: 1369093112
       markers_138: 1578972512
       markers_139: -1052014801
@@ -4551,11 +4546,6 @@ TextureImporter:
       markers_179: 734281884
       markers_180: 1619438446
       markers_181: -1931365870
-      markers_182: -1008593549
-      markers_183: -331751143
-      markers_184: -402063026
-      markers_185: 189280364
-      markers_186: -1996588359
       markers_187: -1182129813
       markers_188: 521468137
       markers_189: -1405142696
@@ -4569,11 +4559,9 @@ TextureImporter:
       markers_197: -737805758
       markers_198: -1425987889
       markers_199: 1071615026
-      markers_20: -1153904521
       markers_48: 1267364077
       markers_49: -411426123
       markers_69: -1844224887
-      markers_70: -21745242
       markers_72: 1322065151
       markers_73: 1782784819
       markers_74: 80172486
@@ -4615,6 +4603,8 @@ TextureImporter:
       markers_Axe_small: 181121707
       markers_Chest: -612933561
       markers_Chest_small: -1461592062
+      markers_Cog: 573984933
+      markers_Cog_small: -1996588359
       markers_Copper: 597228938
       markers_Copper_small: -358401908
       markers_Cross: -1242748886
@@ -4623,6 +4613,8 @@ TextureImporter:
       markers_Dagger_small: -2122368767
       markers_ExclamationMark: -2039649613
       markers_ExclamationMark_small: -266973354
+      markers_Fish: 1772754390
+      markers_Fish_small: -402063026
       markers_FlagBlack: -936645463
       markers_FlagBlack_small: -1876936150
       markers_FlagBlue: -1876676528
@@ -4661,6 +4653,8 @@ TextureImporter:
       markers_Heart_small: -887294438
       markers_Iron: 186075783
       markers_Iron_small: 669935995
+      markers_Leaf: 140349268
+      markers_Leaf_small: -331751143
       markers_LetterA: -2106180881
       markers_LetterB: -878354902
       markers_LetterC: -443390462
@@ -4710,6 +4704,8 @@ TextureImporter:
       markers_Relucite_small: 1116655846
       markers_Scarlet: 761860651
       markers_Scarlet_small: 1941579014
+      markers_Shield: -1438204807
+      markers_Shield_small: 189280364
       markers_Sign: -763866296
       markers_Sign_small: 1197294961
       markers_Skull: 1200122449
@@ -4717,6 +4713,10 @@ TextureImporter:
       markers_SkullRed_small: -676697965
       markers_Solarite: -13218479
       markers_Solarite_small: -1156342773
+      markers_StructureStone: -1808782953
+      markers_StructureStone_small: -1008593549
+      markers_StructureWood: -1153904521
+      markers_StructureWood_small: -21745242
       markers_Tin: -1183345185
       markers_Tin_small: -1206034802
       markers_Unknown: 782011798

@@ -17,10 +17,16 @@ namespace MapMarkersPlus.Common {
 			PlusMarkerType.ArrowDown,
 			PlusMarkerType.Chest,
 			PlusMarkerType.Sign,
+			PlusMarkerType.StructureWood,
+			PlusMarkerType.StructureStone,
+			PlusMarkerType.Leaf,
+			PlusMarkerType.Fish,
+			PlusMarkerType.Cog,
 			PlusMarkerType.Heart,
 			PlusMarkerType.Skull,
 			PlusMarkerType.SkullRed,
 			PlusMarkerType.Flames,
+			PlusMarkerType.Shield,
 			PlusMarkerType.Dagger,
 			PlusMarkerType.Axe
 		});
