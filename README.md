@@ -1,6 +1,6 @@
 # MapMarkers+
 
-A mod for Core Keeper that adds over lots of new map markers to the game.
+A mod for Core Keeper that adds lots of new map markers to the game.
 
 ## More info + external downloads
 
