@@ -7,7 +7,7 @@ using Object = UnityEngine.Object;
 
 namespace MapMarkersPlus {
 	public class Main : IMod {
-		public const string Version = "1.1";
+		public const string Version = "1.1.1";
 		public const string InternalName = "MapMarkersPlus";
 		public const string DisplayName = "MapMarkers+";
 		
